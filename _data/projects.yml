@@ -2,22 +2,68 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Personal Page
-- project: My Personal Page
-  role: Full Stack Engineer
+- project: Developer Diary
+  role: Engenheiro Full Stack
   duration: 2020
-  url: https://phbomfim.netlify.com
-  description: --- 
+  url: https://phbomfim.dev
+  description: Visando o compartilhamento de conhecimentos e a exposição do meu trabalho realizei a criação do meu website.
+               Nesta página eu compartilho algum dos tutoriais que realizo ao longo dos meus estudos e trabalho desenvolvendo as mais diversas tecnologias.
+               Neste meu diário, além dos conteúdos nos posts, o usuário poderá explorar links externos relacionados ao meu trabalho. 
+               <br>Este é um trabalho desenvolvido em Gatsby e que conta com posts relacionados à  
+               
+               <ul class="resume-item-list">
+               <li> React </li>
+               <li> Git </li>
+               <li> JavaScript </li>
+               <li> Ruby </li>
+               <li> PHP </li>
+               <li> HTML </li>
+               <li> Rails </li>
+               <li> Linux/Windows </li>
+               <li> Travis CI </li>
+               <li> GitLab Pages & GitHub </li>
+               <li> Gatsby </li>
+               <li> GraphQL </li>
+               <li> Heroku </li>
+               <li> WordPress </li>
+               <li> Netlify </li>
+               <br>
+
 
 # IGTBA
-- project: IGTBA
-  role: Co-Founder & Developer
-  duration: 2012 &mdash; Present
+- project: Instituto de Gestalt-terapia da Bahia
+  role: Co-Fundador e Desenvolvedor
+  duration: 2019
   # url: "#"
-  description: --- 
+  description: A partir da tecnologia implementada na Casseb/Saúde Casseb realizei a criação de um sistema semelhante no IGTBA visando as necessidades específicas apresentadas pela instituição.
+               Neste projeto a demanda estava relacionada ao gerenciamento de alunos vinculados ao instituto, além dos cursos/atividades que os mesmos participavam.
+               O sistema é de uso exclusivo dos administradores.
+               <br><br>As tecnologias utilizadas neste projeto foram 
+               
+               <ul class="resume-item-list">
+               <li> HTML </li>
+               <li> CSS </li>
+               <li> JavaScript </li>
+               <li> WAMP Server </li>
+               <li> PHP </li>
+               <li> SQL/MySQL </li>
+               <br>
+    
 
 # Casseb/Saude Casseb
-- project: Casseb/Saude Casseb - System Organizator
-  role: Full Stack Engineer
-  duration: 2018 &mdash; Present
+- project: Casseb/Saude Casseb - Sistema de Gerenciamento de Dados
+  role: Engenheiro Full Stack
+  duration: 2018
   # url: "#"
-  description: ---
+  description: Visando suprir a necessidade do setor de informática da empresa, realizei a criação de um sistema para controle de dados, referente aos mais diversos tipos (protocolos de IP, senhas, tutoriais, emails, telefones, características de máquinas e etc).
+               Neste projeto utilizei uma máquina de servidor da própria empresa para a hospedagem do banco de dados.
+               O sistema é de uso exclusivo do setor e atende à toda companhia. 
+               <br><br>As tecnologias utilizadas neste projeto foram 
+               
+               <ul class="resume-item-list">
+               <li> HTML </li>
+               <li> CSS </li>
+               <li> JavaScript </li>
+               <li> WAMP Server </li>
+               <li> PHP </li>
+               <li> SQL/MySQL </li>
