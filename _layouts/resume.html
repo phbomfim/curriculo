@@ -39,7 +39,7 @@
           {{ site.resume_header_intro }}
         </div>
 
-        {% if site.resume_looking_for_work == 'yes' %}
+        {% if site.resume_looking_for_work == 'no' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
@@ -53,7 +53,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Experience</h2>
+          <h2>Experiência</h2>
         </header>
 
         {% for job in site.data.experience %}
@@ -73,7 +73,7 @@
       <!-- begin Education -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Education</h2>
+          <h2>Educação</h2>
         </header>
 
         {% for education in site.data.education %}
@@ -101,7 +101,7 @@
       <!-- begin Projects -->
       <section class="content-section">
         <header class="section-header">
-          <h2>Projects</h2>
+          <h2>Projetos</h2>
         </header>
 
         {% for project in site.data.projects %}
@@ -160,7 +160,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Associations</h2>
+          <h2>Associações</h2>
         </header>
 
         {% for association in site.data.associations %}
@@ -200,7 +200,7 @@
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Links</h2>
+          <h2>Links</h2>
         </header>
 
         <div class="resume-item">

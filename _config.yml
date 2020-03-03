@@ -1,6 +1,6 @@
 # Site settings
-title: "Paulo Bomfim resume"
-description: "A resume for Paulo H."
+title: "Paulo Bomfim currículo"
+description: "Currículo de Paulo H."
 
 # Build settings
 markdown: kramdown
@@ -11,19 +11,23 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Paulo Bomfim"
-resume_title:                   "Software Engineer"
+resume_title:                   "Engenheiro de Software"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@phbomfim.dev"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+55 71 9 9963 2241"
-resume_contact_address:         "Salvador, Brazil"
+resume_contact_address:         "Salvador, Brasil"
 
-resume_header_contact_info:     "Salvador, Brazil • +55 71 9 9963 2241 • contact@phbomfim.dev"
+resume_header_contact_info:     "Salvador, Brasil • +55 71 9 9963 2241 • contact@phbomfim.dev"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Developing applications since 2017</p>"
+resume_header_intro: "<p>Desenvolvendo softwares desde 2017.
+                         Forte experiência com design e arquitetura, metodologias e softwares open source.
+                         Conhecimento em PHP, Ruby, JavaScript, C++ e outras linguagens.
+                         Atualmente trabalhando em desenvolvimento web.
+                      </p>" 
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -38,22 +42,22 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          false
 resume_section_recognition:     false
-resume_section_links:           false
+resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/phbomfim/"
-  resume_twitter_url:           "http://twitter.com/phbomfimdev"
+  #resume_github_url:            "https://github.com/phbomfim/"
+  #resume_twitter_url:           "http://twitter.com/phbomfimdev"
   #resume_dribbble_url:          ""
   #resume_facebook_url:          "https://www.facebook.com/PauloBonfa/"
-  resume_linkedin_url:          "https://www.linkedin.com/in/phbomfim/"
-  resume_instagram_url:         "https://www.instagram.com/phbomfimm/"
-  resume_website_url:           "http://phbomfim.dev"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/phbomfim/"
+  #resume_instagram_url:         "https://www.instagram.com/phbomfimm/"
+  #resume_website_url:           "http://phbomfim.dev"
   #resume_medium_url:            ""
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
