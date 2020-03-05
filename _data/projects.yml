@@ -2,13 +2,13 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Personal Page
-- project: Developer Diary
+- project: Developer Blog
   role: Engenheiro Full Stack
   duration: 2020
   url: https://phbomfim.dev
   description: Visando o compartilhamento de conhecimentos e a exposição do meu trabalho realizei a criação do meu website.
-               Nesta página eu compartilho algum dos tutoriais que realizo ao longo dos meus estudos e trabalho desenvolvendo as mais diversas tecnologias.
-               Neste meu diário, além dos conteúdos nos posts, o usuário poderá explorar links externos relacionados ao meu trabalho. 
+               Nesta página eu compartilho alguns tutoriais que realizo ao longo dos meus estudos e trabalhos desenvolvendo as mais diversas tecnologias.
+               Neste meu blog, além dos conteúdos nos posts, o usuário poderá explorar links externos relacionados a conteúdos que considero interessantes, outros trabalhos meus e etc. 
                <br>Este é um trabalho desenvolvido em Gatsby e que conta com posts relacionados à  
                
                <ul class="resume-item-list">
@@ -31,11 +31,11 @@
 
 
 # IGTBA
-- project: Instituto de Gestalt-terapia da Bahia
+- project: Instituto de Gestalt-terapia da Bahia - SGD
   role: Co-Fundador e Desenvolvedor
   duration: 2019
   # url: "#"
-  description: A partir da tecnologia implementada na Casseb/Saúde Casseb realizei a criação de um sistema semelhante no IGTBA visando as necessidades específicas apresentadas pela instituição.
+  description: A partir da tecnologia implementada na Casseb/Saúde Casseb realizei a criação de um sistema semelhante para o IGTBA visando as necessidades específicas apresentadas pela instituição.
                Neste projeto a demanda estava relacionada ao gerenciamento de alunos vinculados ao instituto, além dos cursos/atividades que os mesmos participavam.
                O sistema é de uso exclusivo dos administradores.
                <br><br>As tecnologias utilizadas neste projeto foram 
@@ -55,7 +55,7 @@
   role: Engenheiro Full Stack
   duration: 2018
   # url: "#"
-  description: Visando suprir a necessidade do setor de informática da empresa, realizei a criação de um sistema para controle de dados, referente aos mais diversos tipos (protocolos de IP, senhas, tutoriais, emails, telefones, características de máquinas e etc).
+  description: Visando suprir a necessidade do setor de informática da empresa realizei a criação de um sistema para controle de dados referente aos mais diversos tipos (protocolos de IP, senhas, tutoriais, emails, telefones, características de máquinas e etc).
                Neste projeto utilizei uma máquina de servidor da própria empresa para a hospedagem do banco de dados.
                O sistema é de uso exclusivo do setor e atende à toda companhia. 
                <br><br>As tecnologias utilizadas neste projeto foram 
