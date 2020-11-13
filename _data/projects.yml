@@ -2,6 +2,27 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Personal Page
+
+- project: Portifolio Template
+  role: Engenheiro Full Stack
+  duration: 2020
+  url: https://portifolio-project.netlify.app/
+  description: Visando compartilhar conhecimento e cooperar com programadores, realizei a criação de um portifolio, com o foco principal 
+               na disponibilização do template para desenvolvedores em GatsbyJS. Este framework possui uma espécie de mostruário (Gatsby Showcase) 
+               que auxiliam os mais diversos desenvolvedores ao redor do mundo. Neste projeto foram utilizadas as tecnologias:<br>
+               
+               <ul class="resume-item-list">
+               <li> Gatsby JS </li>
+               <li> React JS </li>
+               <li> GraphQL </li>
+               <li> CSS </li>
+                <ul>
+                <li> CSS Grid </li>
+                <li> Tailwind CSS </li>
+                </ul>
+                <li> Netlify </li>
+               <br>
+
 - project: Developer Blog
   role: Engenheiro Full Stack
   duration: 2020
