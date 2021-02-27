@@ -1,4 +1,20 @@
 # Communications Coordinator
+- company: BRASERV Petróleo Ltda.
+  position: Meio período
+  duration:   Jan, 2021  &mdash; Atualmente
+  summary: Desenvolvendo uma variedade de soluções voltadas ao controle de dados. 
+           Dentre as principais tecnologias utilizadas neste trabalho, estão <br>
+
+           <ul class="resume-item-list">
+            <li> PHP & MySQL </li>
+            <li> Google Cloud & SDK Drive API </li>
+            <li> Java </li>
+            <li> Shell Script </li>
+            <li> Heroku </li>
+            <li> Git & GitHub </li>
+            <li> CSS + Bootstrap </li>
+          </ul>
+
 - company: phbomfim.dev
   position: Freelancer
   duration:   Dez, 2019  &mdash; Atualmente
