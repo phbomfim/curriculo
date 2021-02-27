@@ -14,19 +14,19 @@ resume_name:                    "Paulo Bomfim"
 resume_title:                   "Engenheiro de Software"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "contact@phbomfim.dev"
+resume_contact_email:           "paulobommfim@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+55 71 9 9963 2241"
 resume_contact_address:         "Salvador, Brasil"
 
-resume_header_contact_info:     "Salvador, Brasil • +55 71 9 9963 2241 • contact@phbomfim.dev"
+resume_header_contact_info:     "Salvador, Brasil • +55 71 9 9963 2241 • paulobommfim@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Desenvolvendo softwares desde 2017.
                          Freelancer com forte experiência em design e arquitetura, metodologias e softwares open source.
                          Conhecimento em PHP, Ruby, JavaScript, C++ e outras linguagens.
-                         Atualmente expandindo conhecimentos em Desenvolvimento Web.
+                         Atualmente expandindo conhecimentos no Desenvolvimento Web.
                       </p>" 
 
 # use "yes" to display the email contact button,
