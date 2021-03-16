@@ -3,10 +3,10 @@
 
 # Personal Page
 
-- project: Portifolio Template
+- project: Portfolio Template
   role: Engenheiro Full Stack
   duration: 2020
-  url: https://portifolio-project.netlify.app/
+  url: https://phbomfim.dev/
   description: Visando compartilhar conhecimento e cooperar com programadores, realizei a criação de um portifolio, com o foco principal 
                na disponibilização do template para desenvolvedores em GatsbyJS. Este framework possui uma espécie de mostruário (Gatsby Showcase) 
                que auxiliam os mais diversos desenvolvedores ao redor do mundo. Neste projeto foram utilizadas as tecnologias:<br>
