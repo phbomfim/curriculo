@@ -1,7 +1,24 @@
-# Communications Coordinator
+- company: NaveRS
+  position: Tempo integral
+  duration:   Jun, 2021  &mdash; Atualmente
+  summary: Desenvolvendo diversas soluções utilizando a metodologia SCRUM e Ruby On Rails como principal tecnologia.
+           A principal área explorada neste trabalho têm foco para cenários de bancos, utilizando API's, data pipelines, jobs, testes e etc.
+           Além disso, realizo trabalho como liderança técnica, participo de recrutamentos e realizo iniciativas relacionadas a pautas raciais.
+           As principais tecnologias utilizadas neste trabalho são:<br>
+
+           <ul class="resume-item-list">
+            <li> Ruby On Rails </li>
+            <li> Apache Kafka </li>
+            <li> Sidekiq </li>
+            <li> Rspec </li>
+            <li> MongoDB </li>
+            <li> Slim & Bootstrap </li>
+            <li> Heroku </li>
+          </ul>
+
 - company: BRASERV Petróleo Ltda.
   position: Meio período
-  duration:   Jan, 2021  &mdash; Atualmente
+  duration:   Jan, 2021  &mdash; Abr, 2021
   summary: Desenvolvendo uma variedade de soluções voltadas ao controle de dados. 
            Dentre as principais tecnologias utilizadas neste trabalho, estão <br>
 
@@ -12,7 +29,7 @@
             <li> Shell Script </li>
             <li> Heroku </li>
             <li> Git & GitHub </li>
-            <li> CSS + Bootstrap </li>
+            <li> CSS & Bootstrap </li>
           </ul>
 
 - company: phbomfim.dev
