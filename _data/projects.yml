@@ -4,7 +4,7 @@
 # Personal Page
 
 - project: Portfolio Template
-  role: Engenheiro Full Stack
+  role: Desenvolvedor Web
   duration: 2020
   url: https://phbomfim.dev/
   description: Visando compartilhar conhecimento e cooperar com programadores, realizei a criação de um portifolio, com o foco principal 
@@ -24,36 +24,18 @@
                <br>
 
 - project: Developer Blog
-  role: Engenheiro Full Stack
+  role: Desenvolvedor Web
   duration: 2020
-  url: https://phbomfim.dev
-  description: Visando o compartilhamento de conhecimentos e a exposição do meu trabalho realizei a criação do meu website.
-               Nesta página eu compartilho alguns tutoriais que realizo ao longo dos meus estudos e trabalhos desenvolvendo as mais diversas tecnologias.
-               Neste meu blog, além dos conteúdos nos posts, o usuário poderá explorar links externos relacionados a conteúdos que considero interessantes, outros trabalhos meus e etc. 
-               <br>Este é um trabalho desenvolvido em Gatsby e que conta com posts relacionados à  
-               
-               <ul class="resume-item-list">
-               <li> React </li>
-               <li> Git </li>
-               <li> JavaScript </li>
-               <li> Ruby </li>
-               <li> PHP </li>
-               <li> HTML </li>
-               <li> Rails </li>
-               <li> Linux/Windows </li>
-               <li> Travis CI </li>
-               <li> GitLab Pages & GitHub </li>
-               <li> Gatsby </li>
-               <li> GraphQL </li>
-               <li> Heroku </li>
-               <li> WordPress </li>
-               <li> Netlify </li>
-               <br>
+  url: https://blog.phbomfim.dev
+  description: Visando o compartilhamento de conhecimentos e a exposição do meu trabalho realizei a criação de um blog.<br><br>
+               Nesta página eu compartilho alguns tutoriais que realizei ao longo dos meus estudos e trabalhos em diversas tecnologias.
+               No blog, além dos conteúdos nos posts, o usuário poderá explorar links externos, etc. 
+               <br><br>Este é um trabalho desenvolvido em GatsbyJS.
 
 
 # IGTBA
 - project: Instituto de Gestalt-terapia da Bahia - SGD
-  role: Co-Fundador e Desenvolvedor
+  role: Desenvolvedor Web
   duration: 2019
   # url: "#"
   description: A partir da tecnologia implementada na Casseb/Saúde Casseb realizei a criação de um sistema semelhante para o IGTBA visando as necessidades específicas apresentadas pela instituição.
@@ -73,13 +55,13 @@
 
 # Casseb/Saude Casseb
 - project: Casseb/Saude Casseb - Sistema de Gerenciamento de Dados
-  role: Engenheiro Full Stack
+  role: Desenvolvedor Web
   duration: 2018
   # url: "#"
   description: Visando suprir a necessidade do setor de informática da empresa realizei a criação de um sistema para controle de dados referente aos mais diversos tipos (protocolos de IP, senhas, tutoriais, emails, telefones, características de máquinas e etc).
                Neste projeto utilizei uma máquina de servidor da própria empresa para a hospedagem do banco de dados.
                O sistema é de uso exclusivo do setor e atende à toda companhia. 
-               <br><br>As tecnologias utilizadas neste projeto foram 
+               <br><br>As principais tecnologias utilizadas neste projeto foram:<br>
                
                <ul class="resume-item-list">
                <li> HTML </li>
@@ -87,4 +69,4 @@
                <li> JavaScript </li>
                <li> WAMP Server </li>
                <li> PHP </li>
-               <li> SQL/MySQL </li>
+               <li> Banco de Dados - MySQL </li>
